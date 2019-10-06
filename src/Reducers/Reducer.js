@@ -1,7 +1,7 @@
 const iState = {
     list: [
-        { id: 1, name: "rajat", phone: 9889389050 },
-        { id: 2, name: "Rajat", phone: 9876543219 },
+        { id: 1, name: "Test Name 1", phone: 9889765432 },
+        { id: 2, name: "Test Name 2", phone: 9889675234 },
     ],
 };
 
